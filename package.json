@@ -1,0 +1,20 @@
+{
+  "name": "kaixinsong",
+  "version": "0.0.1",
+  "description": "A webfont repository for KaiXinSong.",
+  "main": "KaiXinSong.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Transfusion/kaixinsong-webfont.git"
+  },
+  "author": {
+    "name": "Bryan Kok",
+    "email": "bryan.wyern1@gmail.com",
+    "url": "https://transfusion.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Transfusion/kaixinsong-webfont/issues"
+  },
+  "homepage": "https://github.com/Transfusion/kaixinsong-webfont#readme"
+}
