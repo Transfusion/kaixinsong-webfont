@@ -9,7 +9,7 @@
   font-weight: 400;
   font-display: swap;
   src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Basic-Latin.woff2) format('woff2');
-  unicode-range: U+0, U+1d;
+  unicode-range: U+0, U+8, U+1d;
 }
 
 @font-face {
@@ -180,5 +180,491 @@
   font-weight: 400;
   font-display: swap;
   src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-13.woff2) format('woff2');
-  unicode-range: U+23000-23388;
+  unicode-range: U+23000-233ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-14.woff2) format('woff2');
+  unicode-range: U+23400-237ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-15.woff2) format('woff2');
+  unicode-range: U+23800-23bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-16.woff2) format('woff2');
+  unicode-range: U+23c00-23fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-17.woff2) format('woff2');
+  unicode-range: U+24000-243ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-18.woff2) format('woff2');
+  unicode-range: U+24400-247ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-19.woff2) format('woff2');
+  unicode-range: U+24800-24bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-20.woff2) format('woff2');
+  unicode-range: U+24c00-24fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-21.woff2) format('woff2');
+  unicode-range: U+25000-253ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-22.woff2) format('woff2');
+  unicode-range: U+25400-257ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-23.woff2) format('woff2');
+  unicode-range: U+25800-25bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-24.woff2) format('woff2');
+  unicode-range: U+25c00-25fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-25.woff2) format('woff2');
+  unicode-range: U+26000-263ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-26.woff2) format('woff2');
+  unicode-range: U+26400-267ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-27.woff2) format('woff2');
+  unicode-range: U+26800-26bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-28.woff2) format('woff2');
+  unicode-range: U+26c00-26fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-29.woff2) format('woff2');
+  unicode-range: U+27000-273ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-30.woff2) format('woff2');
+  unicode-range: U+27400-277ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-31.woff2) format('woff2');
+  unicode-range: U+27800-27bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-32.woff2) format('woff2');
+  unicode-range: U+27c00-27fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-33.woff2) format('woff2');
+  unicode-range: U+28000-283ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-34.woff2) format('woff2');
+  unicode-range: U+28400-287ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-35.woff2) format('woff2');
+  unicode-range: U+28800-28bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-36.woff2) format('woff2');
+  unicode-range: U+28c00-28fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-37.woff2) format('woff2');
+  unicode-range: U+29000-293ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-38.woff2) format('woff2');
+  unicode-range: U+29400-297ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-39.woff2) format('woff2');
+  unicode-range: U+29800-29bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-40.woff2) format('woff2');
+  unicode-range: U+29c00-29fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-41.woff2) format('woff2');
+  unicode-range: U+2a000-2a3ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-42.woff2) format('woff2');
+  unicode-range: U+2a400-2a6dd;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-1.woff2) format('woff2');
+  unicode-range: U+2a700-2aaff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-2.woff2) format('woff2');
+  unicode-range: U+2ab00-2aeff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-3.woff2) format('woff2');
+  unicode-range: U+2af00-2b2ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-4.woff2) format('woff2');
+  unicode-range: U+2b300-2b6ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-5.woff2) format('woff2');
+  unicode-range: U+2b700-2b734;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-D.woff2) format('woff2');
+  unicode-range: U+2b740-2b81d;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-1.woff2) format('woff2');
+  unicode-range: U+2b820-2bc1f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-2.woff2) format('woff2');
+  unicode-range: U+2bc20-2c01f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-3.woff2) format('woff2');
+  unicode-range: U+2c020-2c41f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-4.woff2) format('woff2');
+  unicode-range: U+2c420-2c81f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-5.woff2) format('woff2');
+  unicode-range: U+2c820-2cc1f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-6.woff2) format('woff2');
+  unicode-range: U+2cc20-2cea1;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-1.woff2) format('woff2');
+  unicode-range: U+2ceb0-2d2af;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-2.woff2) format('woff2');
+  unicode-range: U+2d2b0-2d6af;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-3.woff2) format('woff2');
+  unicode-range: U+2d6b0-2daaf;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-4.woff2) format('woff2');
+  unicode-range: U+2dab0-2deaf;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-5.woff2) format('woff2');
+  unicode-range: U+2deb0-2e2af;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-6.woff2) format('woff2');
+  unicode-range: U+2e2b0-2e6af;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-7.woff2) format('woff2');
+  unicode-range: U+2e6b0-2eaaf;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-8.woff2) format('woff2');
+  unicode-range: U+2eab0-2ebe0;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-1.woff2) format('woff2');
+  unicode-range: U+30000-303ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-2.woff2) format('woff2');
+  unicode-range: U+30400-307ff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-3.woff2) format('woff2');
+  unicode-range: U+30800-30bff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-4.woff2) format('woff2');
+  unicode-range: U+30c00-30fff;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-5.woff2) format('woff2');
+  unicode-range: U+31000-3134a;
 }
