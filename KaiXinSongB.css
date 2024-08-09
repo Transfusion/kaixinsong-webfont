@@ -8,8 +8,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Basic-Latin.woff2) format('woff2');
-  unicode-range: U+0, U+8, U+1d;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.Basic-Latin.woff2) format('woff2');
+  unicode-range: U+20-7f;
 }
 
 @font-face {
@@ -17,7 +17,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Ideographic-Description-Characters.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.Ideographic-Description-Characters.woff2) format('woff2');
   unicode-range: U+2ff0-2ffb;
 }
 
@@ -26,7 +26,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Enclosed-CJK-Letters-and-Months.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.Enclosed-CJK-Letters-and-Months.woff2) format('woff2');
   unicode-range: U+32ff;
 }
 
@@ -35,7 +35,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-A.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-A.woff2) format('woff2');
   unicode-range: U+4db6-4dbf;
 }
 
@@ -44,8 +44,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs.woff2) format('woff2');
-  unicode-range: U+9fa6-9ffc;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs.woff2) format('woff2');
+  unicode-range: U+9fa6-9fff;
 }
 
 @font-face {
@@ -53,7 +53,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Counting-Rod-Numerals.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.Counting-Rod-Numerals.woff2) format('woff2');
   unicode-range: U+1d372-1d376;
 }
 
@@ -62,7 +62,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.Chess-Symbols.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.Chess-Symbols.woff2) format('woff2');
   unicode-range: U+1fa60-1fa6d;
 }
 
@@ -71,79 +71,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-01.woff2) format('woff2');
-  unicode-range: U+20000-203ff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-02.woff2) format('woff2');
-  unicode-range: U+20400-207ff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-03.woff2) format('woff2');
-  unicode-range: U+20800-20bff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-04.woff2) format('woff2');
-  unicode-range: U+20c00-20fff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-05.woff2) format('woff2');
-  unicode-range: U+21000-213ff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-06.woff2) format('woff2');
-  unicode-range: U+21400-217ff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-07.woff2) format('woff2');
-  unicode-range: U+21800-21bff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-08.woff2) format('woff2');
-  unicode-range: U+21c00-21fff;
-}
-
-@font-face {
-  font-family: KaiXinSongB;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-09.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-01.woff2) format('woff2');
   unicode-range: U+22000-223ff;
 }
 
@@ -152,7 +80,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-10.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-02.woff2) format('woff2');
   unicode-range: U+22400-227ff;
 }
 
@@ -161,7 +89,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-11.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-03.woff2) format('woff2');
   unicode-range: U+22800-22bff;
 }
 
@@ -170,7 +98,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-12.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-04.woff2) format('woff2');
   unicode-range: U+22c00-22fff;
 }
 
@@ -179,7 +107,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-13.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-05.woff2) format('woff2');
   unicode-range: U+23000-233ff;
 }
 
@@ -188,7 +116,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-14.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-06.woff2) format('woff2');
   unicode-range: U+23400-237ff;
 }
 
@@ -197,7 +125,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-15.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-07.woff2) format('woff2');
   unicode-range: U+23800-23bff;
 }
 
@@ -206,7 +134,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-16.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-08.woff2) format('woff2');
   unicode-range: U+23c00-23fff;
 }
 
@@ -215,7 +143,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-17.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-09.woff2) format('woff2');
   unicode-range: U+24000-243ff;
 }
 
@@ -224,7 +152,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-18.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-10.woff2) format('woff2');
   unicode-range: U+24400-247ff;
 }
 
@@ -233,7 +161,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-19.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-11.woff2) format('woff2');
   unicode-range: U+24800-24bff;
 }
 
@@ -242,7 +170,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-20.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-12.woff2) format('woff2');
   unicode-range: U+24c00-24fff;
 }
 
@@ -251,7 +179,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-21.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-13.woff2) format('woff2');
   unicode-range: U+25000-253ff;
 }
 
@@ -260,7 +188,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-22.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-14.woff2) format('woff2');
   unicode-range: U+25400-257ff;
 }
 
@@ -269,7 +197,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-23.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-15.woff2) format('woff2');
   unicode-range: U+25800-25bff;
 }
 
@@ -278,7 +206,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-24.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-16.woff2) format('woff2');
   unicode-range: U+25c00-25fff;
 }
 
@@ -287,7 +215,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-25.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-17.woff2) format('woff2');
   unicode-range: U+26000-263ff;
 }
 
@@ -296,7 +224,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-26.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-18.woff2) format('woff2');
   unicode-range: U+26400-267ff;
 }
 
@@ -305,7 +233,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-27.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-19.woff2) format('woff2');
   unicode-range: U+26800-26bff;
 }
 
@@ -314,7 +242,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-28.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-20.woff2) format('woff2');
   unicode-range: U+26c00-26fff;
 }
 
@@ -323,7 +251,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-29.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-21.woff2) format('woff2');
   unicode-range: U+27000-273ff;
 }
 
@@ -332,7 +260,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-30.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-22.woff2) format('woff2');
   unicode-range: U+27400-277ff;
 }
 
@@ -341,7 +269,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-31.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-23.woff2) format('woff2');
   unicode-range: U+27800-27bff;
 }
 
@@ -350,7 +278,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-32.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-24.woff2) format('woff2');
   unicode-range: U+27c00-27fff;
 }
 
@@ -359,7 +287,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-33.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-25.woff2) format('woff2');
   unicode-range: U+28000-283ff;
 }
 
@@ -368,7 +296,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-34.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-26.woff2) format('woff2');
   unicode-range: U+28400-287ff;
 }
 
@@ -377,7 +305,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-35.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-27.woff2) format('woff2');
   unicode-range: U+28800-28bff;
 }
 
@@ -386,7 +314,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-36.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-28.woff2) format('woff2');
   unicode-range: U+28c00-28fff;
 }
 
@@ -395,7 +323,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-37.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-29.woff2) format('woff2');
   unicode-range: U+29000-293ff;
 }
 
@@ -404,7 +332,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-38.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-30.woff2) format('woff2');
   unicode-range: U+29400-297ff;
 }
 
@@ -413,7 +341,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-39.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-31.woff2) format('woff2');
   unicode-range: U+29800-29bff;
 }
 
@@ -422,7 +350,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-40.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-32.woff2) format('woff2');
   unicode-range: U+29c00-29fff;
 }
 
@@ -431,7 +359,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-41.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-33.woff2) format('woff2');
   unicode-range: U+2a000-2a3ff;
 }
 
@@ -440,8 +368,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-42.woff2) format('woff2');
-  unicode-range: U+2a400-2a6dd;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-B-34.woff2) format('woff2');
+  unicode-range: U+2a400-2a6df;
 }
 
 @font-face {
@@ -449,7 +377,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-1.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-1.woff2) format('woff2');
   unicode-range: U+2a700-2aaff;
 }
 
@@ -458,7 +386,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-2.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-2.woff2) format('woff2');
   unicode-range: U+2ab00-2aeff;
 }
 
@@ -467,7 +395,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-3.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-3.woff2) format('woff2');
   unicode-range: U+2af00-2b2ff;
 }
 
@@ -476,7 +404,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-4.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-4.woff2) format('woff2');
   unicode-range: U+2b300-2b6ff;
 }
 
@@ -485,8 +413,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-5.woff2) format('woff2');
-  unicode-range: U+2b700-2b734;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-C-5.woff2) format('woff2');
+  unicode-range: U+2b700-2b739;
 }
 
 @font-face {
@@ -494,7 +422,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-D.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-D.woff2) format('woff2');
   unicode-range: U+2b740-2b81d;
 }
 
@@ -503,7 +431,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-1.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-1.woff2) format('woff2');
   unicode-range: U+2b820-2bc1f;
 }
 
@@ -512,7 +440,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-2.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-2.woff2) format('woff2');
   unicode-range: U+2bc20-2c01f;
 }
 
@@ -521,7 +449,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-3.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-3.woff2) format('woff2');
   unicode-range: U+2c020-2c41f;
 }
 
@@ -530,7 +458,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-4.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-4.woff2) format('woff2');
   unicode-range: U+2c420-2c81f;
 }
 
@@ -539,7 +467,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-5.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-5.woff2) format('woff2');
   unicode-range: U+2c820-2cc1f;
 }
 
@@ -548,7 +476,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-6.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-E-6.woff2) format('woff2');
   unicode-range: U+2cc20-2cea1;
 }
 
@@ -557,7 +485,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-1.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-1.woff2) format('woff2');
   unicode-range: U+2ceb0-2d2af;
 }
 
@@ -566,7 +494,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-2.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-2.woff2) format('woff2');
   unicode-range: U+2d2b0-2d6af;
 }
 
@@ -575,7 +503,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-3.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-3.woff2) format('woff2');
   unicode-range: U+2d6b0-2daaf;
 }
 
@@ -584,7 +512,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-4.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-4.woff2) format('woff2');
   unicode-range: U+2dab0-2deaf;
 }
 
@@ -593,7 +521,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-5.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-5.woff2) format('woff2');
   unicode-range: U+2deb0-2e2af;
 }
 
@@ -602,7 +530,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-6.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-6.woff2) format('woff2');
   unicode-range: U+2e2b0-2e6af;
 }
 
@@ -611,7 +539,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-7.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-7.woff2) format('woff2');
   unicode-range: U+2e6b0-2eaaf;
 }
 
@@ -620,7 +548,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-8.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-F-8.woff2) format('woff2');
   unicode-range: U+2eab0-2ebe0;
 }
 
@@ -629,7 +557,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-1.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-1.woff2) format('woff2');
   unicode-range: U+30000-303ff;
 }
 
@@ -638,7 +566,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-2.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-2.woff2) format('woff2');
   unicode-range: U+30400-307ff;
 }
 
@@ -647,7 +575,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-3.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-3.woff2) format('woff2');
   unicode-range: U+30800-30bff;
 }
 
@@ -656,7 +584,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-4.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-4.woff2) format('woff2');
   unicode-range: U+30c00-30fff;
 }
 
@@ -665,6 +593,69 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('KaiXinSongB'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-5.woff2) format('woff2');
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-G-5.woff2) format('woff2');
   unicode-range: U+31000-3134a;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-H-1.woff2) format('woff2');
+  unicode-range: U+31350-3174f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-H-2.woff2) format('woff2');
+  unicode-range: U+31750-31b4f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-H-3.woff2) format('woff2');
+  unicode-range: U+31b50-31f4f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-H-4.woff2) format('woff2');
+  unicode-range: U+31f50-3234f;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-H-5.woff2) format('woff2');
+  unicode-range: U+32350-323af;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Unified-Ideographs-Extension-I.woff2) format('woff2');
+  unicode-range: U+2ebf0-2ee5d;
+}
+
+@font-face {
+  font-family: KaiXinSongB;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('KaiXinSongB Normal'), local('KaiXinSongB'), url(KaiXinSongB.CJK-Compatibility-Ideographs-Supplement.woff2) format('woff2');
+  unicode-range: U+2f800-2fa1d;
 }
