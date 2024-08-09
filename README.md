@@ -1,10 +1,8 @@
 # 开心宋体
 
-A webfont repository for KaiXinSong, based on <https://github.com/VdustR/hanamin>. Supports CJK Extensions A through G.
+A webfont repository for KaiXinSong, based on <https://github.com/VdustR/hanamin>. Supports CJK Extensions A through I.
 
-- Original font: <http://www.guoxuedashi.com/zidian/bujian/KaiXinSong.php>
-
-- As sourced from: <https://github.com/yuleshow/chinese-fonts>
+- Original font: <http://www.guoxuedashi.com/zidian/bujian/KaiXinSong.php> (version 4.1)
 
 - Split with [font-splitter](https://github.com/VdustR/font-splitter)
 
